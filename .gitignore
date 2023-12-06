@@ -1,3 +1,4 @@
 data/
 FillRouge/train_aguascalientes.csv
 FillRouge/ags_data.csv
+FillRouge/test_label_aguascalientes.csv
